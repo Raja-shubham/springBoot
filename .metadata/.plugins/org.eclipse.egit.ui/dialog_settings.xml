@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Raja-shubham/springBootDemo.git"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="true"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\hp\git\springBootDemo\.git">
+			<item value="false"/>
+			<item value="hp &lt;hp@DESKTOP-IAD0533&gt;"/>
+			<item value="Done Adding project"/>
+			<item value="hp &lt;hp@DESKTOP-IAD0533&gt;"/>
+			<item value="c4ab1e7dff1019e5844c5ca094f6feb987014658"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

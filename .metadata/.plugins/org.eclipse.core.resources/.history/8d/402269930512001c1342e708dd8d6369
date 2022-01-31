@@ -1,0 +1,18 @@
+package Random;
+
+import java.util.function.Function;
+import java.util.function.Predicate;
+
+
+
+public class Exam {
+
+	public static void main(String[] args) {
+		Predicate<Integer> p=i->i%2==0;
+		Function<String,Integer> f=s->s.length();
+		Customer<Integer> c=z-> System.out.println("jhg");
+		System.out.println(p.test(5));
+		System.out.println(f.apply("dfghkj"));
+	}
+
+}
